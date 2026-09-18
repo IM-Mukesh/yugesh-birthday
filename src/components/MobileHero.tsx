@@ -86,7 +86,7 @@ export default function MobileHero() {
           }}
         >
           <Image
-            src="/photos/hero-cutout.png"
+            src="/photos/hero-cutout.webp"
             alt="Yugesh"
             fill
             sizes="100vw"

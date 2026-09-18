@@ -104,7 +104,7 @@ export default function Hero({ onCelebrate }: { onCelebrate: () => void }) {
               className="top-[40%] right-[4%] xl:right-[7%]"
             />
             <PhotoFrame
-              src="/photos/poster-retro.png"
+              src="/photos/poster-retro.jpg"
               label="Always Together"
               rotate={6}
               delay={0.7}
@@ -148,7 +148,7 @@ export default function Hero({ onCelebrate }: { onCelebrate: () => void }) {
           }}
         >
           <Image
-            src="/photos/hero-cutout.png"
+            src="/photos/hero-cutout.webp"
             alt="Yugesh"
             fill
             sizes="400px"

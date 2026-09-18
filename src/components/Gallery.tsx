@@ -36,7 +36,7 @@ const PHOTOS: Photo[] = [
     icon: "people",
   },
   {
-    src: "/photos/hero-portrait-band.png",
+    src: "/photos/hero-portrait-band.jpg",
     fit: "cover",
     number: "03",
     title: "Stronger Today",
@@ -72,7 +72,7 @@ const PHOTOS: Photo[] = [
     icon: "pin",
   },
   {
-    src: "/photos/poster-retro.png",
+    src: "/photos/poster-retro.jpg",
     fit: "contain",
     number: "07",
     title: "Legend Edition",
